@@ -1,0 +1,15 @@
+{
+  "name": "vue-from-scratch",
+  "version": "1.0.0",
+  "description": "Set up vue from scratch, no cli!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juanfevasquez",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
